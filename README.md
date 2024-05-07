@@ -1,5 +1,5 @@
 # Resolucao_Sudoku
-Um algoritmo simples de resolver o tam famoso jogo Sudoku.
+Um algoritmo simples de resolver o famoso jogo Sudoku.
 
 Neste algoritmo, é introduzido uma tabela que temos que preencher com os valores clicando no espaço, fazendo assim, os valores sempre aumentar
 
